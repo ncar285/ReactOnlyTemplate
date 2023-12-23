@@ -1,0 +1,14 @@
+:root {
+    --background: #EEF2F7;
+    --lightGrey: #cccc;
+    --charcoal: #33302E;
+    --RNRboxshadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.2);
+}
+
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+}
